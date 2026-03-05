@@ -1,5 +1,4 @@
 -- ~/.config/nvim/lsp/openscad_ls.lua
--- ~/.config/nvim/lsp/openscad_ls.lua
 return {
   cmd = { "openscad-language-server" },
   filetypes = { "openscad" },
